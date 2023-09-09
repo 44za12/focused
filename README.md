@@ -23,8 +23,8 @@ If the concentration score falls below a certain threshold, the user is alerted 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/44za12/focused
+cd focused
 ```
 
 2. Install the required packages:
